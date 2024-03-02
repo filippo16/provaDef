@@ -1,0 +1,6642 @@
+[
+ {
+  "r": "P",
+  "nome": "Sommer",
+  "squadra": "Inter",
+  "pv": 25,
+  "mv": 6.1,
+  "fm": 5.72,
+  "gf": 0,
+  "gs": 12
+ },
+ {
+  "r": "P",
+  "nome": "Di Gregorio",
+  "squadra": "Monza",
+  "pv": 23,
+  "mv": 6.39,
+  "fm": 5.78,
+  "gf": 0,
+  "gs": 17
+ },
+ {
+  "r": "P",
+  "nome": "Carnesecchi",
+  "squadra": "Atalanta",
+  "pv": 16,
+  "mv": 6.28,
+  "fm": 5.66,
+  "gf": 0,
+  "gs": 16
+ },
+ {
+  "r": "P",
+  "nome": "Szczesny",
+  "squadra": "Juventus",
+  "pv": 24,
+  "mv": 6.19,
+  "fm": 5.44,
+  "gf": 0,
+  "gs": 18
+ },
+ {
+  "r": "P",
+  "nome": "Terracciano",
+  "squadra": "Fiorentina",
+  "pv": 24,
+  "mv": 6.31,
+  "fm": 5.38,
+  "gf": 0,
+  "gs": 24
+ },
+ {
+  "r": "P",
+  "nome": "Skorupski",
+  "squadra": "Bologna",
+  "pv": 23,
+  "mv": 6.17,
+  "fm": 5.3,
+  "gf": 0,
+  "gs": 22
+ },
+ {
+  "r": "P",
+  "nome": "Provedel",
+  "squadra": "Lazio",
+  "pv": 26,
+  "mv": 6.21,
+  "fm": 5.13,
+  "gf": 0,
+  "gs": 28
+ },
+ {
+  "r": "P",
+  "nome": "Caprile",
+  "squadra": "Empoli",
+  "pv": 11,
+  "mv": 6.27,
+  "fm": 5.36,
+  "gf": 0,
+  "gs": 13
+ },
+ {
+  "r": "P",
+  "nome": "Meret",
+  "squadra": "Napoli",
+  "pv": 19,
+  "mv": 6.05,
+  "fm": 5.05,
+  "gf": 0,
+  "gs": 22
+ },
+ {
+  "r": "P",
+  "nome": "Milinkovic-Savic V.",
+  "squadra": "Torino",
+  "pv": 25,
+  "mv": 6.06,
+  "fm": 5.1,
+  "gf": 0,
+  "gs": 23
+ },
+ {
+  "r": "P",
+  "nome": "Martinez Jo.",
+  "squadra": "Genoa",
+  "pv": 25,
+  "mv": 6.18,
+  "fm": 5.06,
+  "gf": 0,
+  "gs": 29
+ },
+ {
+  "r": "P",
+  "nome": "Montipo'",
+  "squadra": "Verona",
+  "pv": 26,
+  "mv": 6.25,
+  "fm": 4.87,
+  "gf": 0,
+  "gs": 36
+ },
+ {
+  "r": "P",
+  "nome": "Falcone",
+  "squadra": "Lecce",
+  "pv": 26,
+  "mv": 6.25,
+  "fm": 4.71,
+  "gf": 0,
+  "gs": 43
+ },
+ {
+  "r": "P",
+  "nome": "Rui Patricio",
+  "squadra": "Roma",
+  "pv": 23,
+  "mv": 5.98,
+  "fm": 4.78,
+  "gf": 0,
+  "gs": 27
+ },
+ {
+  "r": "P",
+  "nome": "Maignan",
+  "squadra": "Milan",
+  "pv": 23,
+  "mv": 6.02,
+  "fm": 4.7,
+  "gf": 0,
+  "gs": 30
+ },
+ {
+  "r": "P",
+  "nome": "Okoye",
+  "squadra": "Udinese",
+  "pv": 9,
+  "mv": 6.17,
+  "fm": 4.83,
+  "gf": 0,
+  "gs": 12
+ },
+ {
+  "r": "P",
+  "nome": "Consigli",
+  "squadra": "Sassuolo",
+  "pv": 24,
+  "mv": 6.17,
+  "fm": 4.27,
+  "gf": 0,
+  "gs": 48
+ },
+ {
+  "r": "P",
+  "nome": "Gollini",
+  "squadra": "Napoli",
+  "pv": 7,
+  "mv": 6.0,
+  "fm": 4.86,
+  "gf": 0,
+  "gs": 8
+ },
+ {
+  "r": "P",
+  "nome": "Scuffet",
+  "squadra": "Cagliari",
+  "pv": 19,
+  "mv": 6.16,
+  "fm": 4.29,
+  "gf": 0,
+  "gs": 35
+ },
+ {
+  "r": "P",
+  "nome": "Musso",
+  "squadra": "Atalanta",
+  "pv": 10,
+  "mv": 6.1,
+  "fm": 4.9,
+  "gf": 0,
+  "gs": 12
+ },
+ {
+  "r": "P",
+  "nome": "Berisha",
+  "squadra": "Empoli",
+  "pv": 14,
+  "mv": 6.11,
+  "fm": 4.54,
+  "gf": 0,
+  "gs": 25
+ },
+ {
+  "r": "P",
+  "nome": "Ochoa",
+  "squadra": "Salernitana",
+  "pv": 18,
+  "mv": 6.28,
+  "fm": 4.22,
+  "gf": 0,
+  "gs": 37
+ },
+ {
+  "r": "P",
+  "nome": "Ravaglia F.",
+  "squadra": "Bologna",
+  "pv": 3,
+  "mv": 6.0,
+  "fm": 5.67,
+  "gf": 0,
+  "gs": 1
+ },
+ {
+  "r": "P",
+  "nome": "Turati",
+  "squadra": "Frosinone",
+  "pv": 24,
+  "mv": 6.1,
+  "fm": 4.1,
+  "gf": 0,
+  "gs": 51
+ },
+ {
+  "r": "P",
+  "nome": "Svilar",
+  "squadra": "Roma",
+  "pv": 3,
+  "mv": 6.5,
+  "fm": 4.83,
+  "gf": 0,
+  "gs": 5
+ },
+ {
+  "r": "P",
+  "nome": "Silvestri",
+  "squadra": "Udinese",
+  "pv": 17,
+  "mv": 5.82,
+  "fm": 4.18,
+  "gf": 0,
+  "gs": 28
+ },
+ {
+  "r": "P",
+  "nome": "Costil",
+  "squadra": "Salernitana",
+  "pv": 8,
+  "mv": 6.38,
+  "fm": 4.38,
+  "gf": 0,
+  "gs": 16
+ },
+ {
+  "r": "P",
+  "nome": "Audero",
+  "squadra": "Inter",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Contini",
+  "squadra": "Napoli",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Sorrentino A.",
+  "squadra": "Monza",
+  "pv": 5,
+  "mv": 5.9,
+  "fm": 3.3,
+  "gf": 0,
+  "gs": 13
+ },
+ {
+  "r": "P",
+  "nome": "Radunovic",
+  "squadra": "Cagliari",
+  "pv": 7,
+  "mv": 5.71,
+  "fm": 4.0,
+  "gf": 0,
+  "gs": 12
+ },
+ {
+  "r": "P",
+  "nome": "Sportiello",
+  "squadra": "Milan",
+  "pv": 2,
+  "mv": 6.25,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 1
+ },
+ {
+  "r": "P",
+  "nome": "Mirante",
+  "squadra": "Milan",
+  "pv": 1,
+  "mv": 7.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 1
+ },
+ {
+  "r": "P",
+  "nome": "Sepe",
+  "squadra": "Lazio",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Leali",
+  "squadra": "Genoa",
+  "pv": 1,
+  "mv": 7.0,
+  "fm": 5.0,
+  "gf": 0,
+  "gs": 2
+ },
+ {
+  "r": "P",
+  "nome": "Lamanna",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Perin",
+  "squadra": "Juventus",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 1
+ },
+ {
+  "r": "P",
+  "nome": "Sommariva",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Pegolo",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Perilli",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Padelli",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Perisan",
+  "squadra": "Empoli",
+  "pv": 1,
+  "mv": 5.0,
+  "fm": 3.0,
+  "gf": 0,
+  "gs": 2
+ },
+ {
+  "r": "P",
+  "nome": "Di Gennaro",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Pinsoglio",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Aresti",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Fiorillo",
+  "squadra": "Salernitana",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Cragno",
+  "squadra": "Sassuolo",
+  "pv": 2,
+  "mv": 6.25,
+  "fm": 3.25,
+  "gf": 0,
+  "gs": 6
+ },
+ {
+  "r": "P",
+  "nome": "Cerofolini",
+  "squadra": "Frosinone",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 3.75,
+  "gf": 0,
+  "gs": 4
+ },
+ {
+  "r": "P",
+  "nome": "Rossi F.",
+  "squadra": "Atalanta",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Frattali",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Brancolini",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Bleve",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Berardi A.",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Gemello",
+  "squadra": "Torino",
+  "pv": 1,
+  "mv": 5.0,
+  "fm": 3.0,
+  "gf": 0,
+  "gs": 2
+ },
+ {
+  "r": "P",
+  "nome": "Boer",
+  "squadra": "Roma",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Adamonis",
+  "squadra": "Lazio",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Piana",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Bagnolini",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Luis Maximiano",
+  "squadra": "Lazio",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Martinelli T.",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Popa",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Stubljar",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Stankovic F.",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Gori",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Christensen O.",
+  "squadra": "Fiorentina",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 2.75,
+  "gf": 0,
+  "gs": 6
+ },
+ {
+  "r": "P",
+  "nome": "Borbei",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Palmisani",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Mandas",
+  "squadra": "Lazio",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Nava",
+  "squadra": "Milan",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Gasperini T.",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Samooja",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "P",
+  "nome": "Stolz",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dimarco",
+  "squadra": "Inter",
+  "pv": 21,
+  "mv": 6.5,
+  "fm": 7.36,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dumfries",
+  "squadra": "Inter",
+  "pv": 21,
+  "mv": 6.31,
+  "fm": 6.81,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Acerbi",
+  "squadra": "Inter",
+  "pv": 20,
+  "mv": 6.28,
+  "fm": 6.6,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Buongiorno",
+  "squadra": "Torino",
+  "pv": 18,
+  "mv": 6.39,
+  "fm": 6.75,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hernandez T.",
+  "squadra": "Milan",
+  "pv": 23,
+  "mv": 6.2,
+  "fm": 6.5,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Di Lorenzo",
+  "squadra": "Napoli",
+  "pv": 25,
+  "mv": 6.18,
+  "fm": 6.4,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Martinez Quarta",
+  "squadra": "Fiorentina",
+  "pv": 20,
+  "mv": 6.08,
+  "fm": 6.55,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Carlos Augusto",
+  "squadra": "Inter",
+  "pv": 24,
+  "mv": 6.21,
+  "fm": 6.31,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Spinazzola",
+  "squadra": "Roma",
+  "pv": 18,
+  "mv": 6.11,
+  "fm": 6.39,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bremer",
+  "squadra": "Juventus",
+  "pv": 25,
+  "mv": 6.22,
+  "fm": 6.34,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bellanova",
+  "squadra": "Torino",
+  "pv": 24,
+  "mv": 6.19,
+  "fm": 6.42,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dragusin",
+  "squadra": "Genoa",
+  "pv": 19,
+  "mv": 6.11,
+  "fm": 6.45,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bastoni",
+  "squadra": "Inter",
+  "pv": 20,
+  "mv": 6.32,
+  "fm": 6.35,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mancini",
+  "squadra": "Roma",
+  "pv": 25,
+  "mv": 6.0,
+  "fm": 6.22,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kolasinac",
+  "squadra": "Atalanta",
+  "pv": 23,
+  "mv": 6.09,
+  "fm": 6.15,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Tomori",
+  "squadra": "Milan",
+  "pv": 16,
+  "mv": 6.22,
+  "fm": 6.66,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "De Vrij",
+  "squadra": "Inter",
+  "pv": 18,
+  "mv": 6.25,
+  "fm": 6.42,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "De Silvestri",
+  "squadra": "Bologna",
+  "pv": 11,
+  "mv": 6.23,
+  "fm": 6.77,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zappacosta",
+  "squadra": "Atalanta",
+  "pv": 22,
+  "mv": 5.93,
+  "fm": 6.16,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Darmian",
+  "squadra": "Inter",
+  "pv": 22,
+  "mv": 6.16,
+  "fm": 6.3,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ruggeri",
+  "squadra": "Atalanta",
+  "pv": 23,
+  "mv": 5.98,
+  "fm": 6.09,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Maehle",
+  "squadra": "Atalanta",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Cambiaso",
+  "squadra": "Juventus",
+  "pv": 23,
+  "mv": 6.09,
+  "fm": 6.24,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Scalvini",
+  "squadra": "Atalanta",
+  "pv": 24,
+  "mv": 6.0,
+  "fm": 6.08,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Biraghi",
+  "squadra": "Fiorentina",
+  "pv": 21,
+  "mv": 5.95,
+  "fm": 6.1,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Calabria",
+  "squadra": "Milan",
+  "pv": 22,
+  "mv": 6.0,
+  "fm": 6.02,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Rodriguez R.",
+  "squadra": "Torino",
+  "pv": 24,
+  "mv": 6.08,
+  "fm": 6.02,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Danilo",
+  "squadra": "Juventus",
+  "pv": 18,
+  "mv": 6.14,
+  "fm": 6.22,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Toljan",
+  "squadra": "Sassuolo",
+  "pv": 18,
+  "mv": 6.03,
+  "fm": 6.22,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Monterisi",
+  "squadra": "Frosinone",
+  "pv": 18,
+  "mv": 5.83,
+  "fm": 6.25,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Vasquez",
+  "squadra": "Genoa",
+  "pv": 24,
+  "mv": 6.06,
+  "fm": 5.98,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Holm",
+  "squadra": "Atalanta",
+  "pv": 12,
+  "mv": 6.08,
+  "fm": 6.33,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gatti",
+  "squadra": "Juventus",
+  "pv": 23,
+  "mv": 5.98,
+  "fm": 6.07,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Posch",
+  "squadra": "Bologna",
+  "pv": 20,
+  "mv": 6.1,
+  "fm": 6.05,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Beukema",
+  "squadra": "Bologna",
+  "pv": 22,
+  "mv": 6.11,
+  "fm": 6.18,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kayode",
+  "squadra": "Fiorentina",
+  "pv": 17,
+  "mv": 6.12,
+  "fm": 6.29,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Rugani",
+  "squadra": "Juventus",
+  "pv": 10,
+  "mv": 6.15,
+  "fm": 6.65,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Luperto",
+  "squadra": "Empoli",
+  "pv": 26,
+  "mv": 5.96,
+  "fm": 6.08,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Djimsiti",
+  "squadra": "Atalanta",
+  "pv": 25,
+  "mv": 5.94,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gosens",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bani",
+  "squadra": "Genoa",
+  "pv": 21,
+  "mv": 6.02,
+  "fm": 6.12,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lazaro",
+  "squadra": "Torino",
+  "pv": 22,
+  "mv": 6.07,
+  "fm": 6.05,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Calafiori",
+  "squadra": "Bologna",
+  "pv": 19,
+  "mv": 6.18,
+  "fm": 6.03,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bisseck",
+  "squadra": "Inter",
+  "pv": 5,
+  "mv": 6.5,
+  "fm": 7.1,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Huijsen",
+  "squadra": "Roma",
+  "pv": 7,
+  "mv": 6.07,
+  "fm": 6.43,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Florenzi",
+  "squadra": "Milan",
+  "pv": 19,
+  "mv": 6.0,
+  "fm": 6.03,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Sabelli",
+  "squadra": "Genoa",
+  "pv": 23,
+  "mv": 5.98,
+  "fm": 5.89,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lirola",
+  "squadra": "Frosinone",
+  "pv": 13,
+  "mv": 5.73,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Karsdorp",
+  "squadra": "Roma",
+  "pv": 14,
+  "mv": 6.14,
+  "fm": 6.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lazzari",
+  "squadra": "Lazio",
+  "pv": 18,
+  "mv": 5.94,
+  "fm": 5.94,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lykogiannis",
+  "squadra": "Bologna",
+  "pv": 15,
+  "mv": 5.9,
+  "fm": 6.2,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pavard",
+  "squadra": "Inter",
+  "pv": 13,
+  "mv": 6.27,
+  "fm": 6.23,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Demiral",
+  "squadra": "Atalanta",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Rrahmani",
+  "squadra": "Napoli",
+  "pv": 21,
+  "mv": 5.98,
+  "fm": 6.19,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zortea",
+  "squadra": "Frosinone",
+  "pv": 7,
+  "mv": 6.29,
+  "fm": 6.86,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Angelino",
+  "squadra": "Roma",
+  "pv": 4,
+  "mv": 5.88,
+  "fm": 5.38,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Singo",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Llorente D.",
+  "squadra": "Roma",
+  "pv": 22,
+  "mv": 5.93,
+  "fm": 5.89,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gendrey",
+  "squadra": "Lecce",
+  "pv": 25,
+  "mv": 5.82,
+  "fm": 5.96,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lucumi'",
+  "squadra": "Bologna",
+  "pv": 17,
+  "mv": 6.06,
+  "fm": 6.03,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kristiansen",
+  "squadra": "Bologna",
+  "pv": 21,
+  "mv": 5.9,
+  "fm": 5.98,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dossena",
+  "squadra": "Cagliari",
+  "pv": 26,
+  "mv": 5.77,
+  "fm": 5.96,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Patric",
+  "squadra": "Lazio",
+  "pv": 12,
+  "mv": 6.04,
+  "fm": 6.17,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Marchizza",
+  "squadra": "Frosinone",
+  "pv": 13,
+  "mv": 6.0,
+  "fm": 6.19,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Boateng J.",
+  "squadra": "Salernitana",
+  "pv": 4,
+  "mv": 5.88,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Smalling",
+  "squadra": "Roma",
+  "pv": 4,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ibanez",
+  "squadra": "Roma",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gallo",
+  "squadra": "Lecce",
+  "pv": 22,
+  "mv": 5.82,
+  "fm": 5.86,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kyriakopoulos",
+  "squadra": "Monza",
+  "pv": 18,
+  "mv": 5.92,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Caldirola",
+  "squadra": "Monza",
+  "pv": 22,
+  "mv": 5.8,
+  "fm": 5.82,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kamara H.",
+  "squadra": "Udinese",
+  "pv": 19,
+  "mv": 6.0,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Birindelli",
+  "squadra": "Monza",
+  "pv": 20,
+  "mv": 6.02,
+  "fm": 5.9,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ebosele",
+  "squadra": "Udinese",
+  "pv": 25,
+  "mv": 5.88,
+  "fm": 5.8,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Schuurs",
+  "squadra": "Torino",
+  "pv": 9,
+  "mv": 6.11,
+  "fm": 6.33,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kristensen",
+  "squadra": "Roma",
+  "pv": 22,
+  "mv": 5.75,
+  "fm": 5.8,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Manolas",
+  "squadra": "Salernitana",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Romagnoli",
+  "squadra": "Lazio",
+  "pv": 18,
+  "mv": 6.03,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Fazio",
+  "squadra": "Salernitana",
+  "pv": 11,
+  "mv": 5.91,
+  "fm": 6.14,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Rogerio",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pellegrini Lu.",
+  "squadra": "Lazio",
+  "pv": 13,
+  "mv": 5.85,
+  "fm": 5.92,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Magnani",
+  "squadra": "Verona",
+  "pv": 20,
+  "mv": 5.95,
+  "fm": 5.85,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Djidji",
+  "squadra": "Torino",
+  "pv": 10,
+  "mv": 6.0,
+  "fm": 5.9,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gabbia",
+  "squadra": "Milan",
+  "pv": 7,
+  "mv": 6.07,
+  "fm": 6.36,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Augello",
+  "squadra": "Cagliari",
+  "pv": 21,
+  "mv": 5.71,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zappa",
+  "squadra": "Cagliari",
+  "pv": 26,
+  "mv": 5.71,
+  "fm": 5.79,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mari'",
+  "squadra": "Monza",
+  "pv": 21,
+  "mv": 5.98,
+  "fm": 5.81,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Erlic",
+  "squadra": "Sassuolo",
+  "pv": 22,
+  "mv": 5.75,
+  "fm": 5.8,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bakker",
+  "squadra": "Atalanta",
+  "pv": 6,
+  "mv": 5.75,
+  "fm": 6.17,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mazzocchi",
+  "squadra": "Napoli",
+  "pv": 23,
+  "mv": 5.65,
+  "fm": 5.61,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Perez N.",
+  "squadra": "Udinese",
+  "pv": 26,
+  "mv": 5.87,
+  "fm": 5.79,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "De Winter",
+  "squadra": "Genoa",
+  "pv": 19,
+  "mv": 5.97,
+  "fm": 5.82,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Terracciano F.",
+  "squadra": "Milan",
+  "pv": 18,
+  "mv": 5.92,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gila",
+  "squadra": "Lazio",
+  "pv": 13,
+  "mv": 5.96,
+  "fm": 5.81,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Valeri",
+  "squadra": "Frosinone",
+  "pv": 4,
+  "mv": 5.38,
+  "fm": 5.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ehizibue",
+  "squadra": "Udinese",
+  "pv": 10,
+  "mv": 5.85,
+  "fm": 5.85,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zemura",
+  "squadra": "Udinese",
+  "pv": 16,
+  "mv": 5.84,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Azzi",
+  "squadra": "Cagliari",
+  "pv": 16,
+  "mv": 5.91,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Romagnoli S.",
+  "squadra": "Frosinone",
+  "pv": 22,
+  "mv": 5.7,
+  "fm": 5.73,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Cuadrado",
+  "squadra": "Inter",
+  "pv": 7,
+  "mv": 6.07,
+  "fm": 6.29,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ferrari G.",
+  "squadra": "Sassuolo",
+  "pv": 15,
+  "mv": 5.57,
+  "fm": 5.67,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Milenkovic",
+  "squadra": "Fiorentina",
+  "pv": 22,
+  "mv": 5.75,
+  "fm": 5.68,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Martin",
+  "squadra": "Genoa",
+  "pv": 12,
+  "mv": 5.83,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kjaer",
+  "squadra": "Milan",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ranieri L.",
+  "squadra": "Fiorentina",
+  "pv": 16,
+  "mv": 5.88,
+  "fm": 5.78,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dawidowicz",
+  "squadra": "Verona",
+  "pv": 19,
+  "mv": 5.87,
+  "fm": 5.66,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Carboni A.",
+  "squadra": "Monza",
+  "pv": 16,
+  "mv": 5.91,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bradaric",
+  "squadra": "Salernitana",
+  "pv": 25,
+  "mv": 5.68,
+  "fm": 5.7,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pongracic",
+  "squadra": "Lecce",
+  "pv": 24,
+  "mv": 5.85,
+  "fm": 5.69,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ostigard",
+  "squadra": "Napoli",
+  "pv": 13,
+  "mv": 5.88,
+  "fm": 6.04,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Cacace",
+  "squadra": "Empoli",
+  "pv": 20,
+  "mv": 5.65,
+  "fm": 5.52,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Baschirotto",
+  "squadra": "Lecce",
+  "pv": 25,
+  "mv": 5.68,
+  "fm": 5.66,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bijol",
+  "squadra": "Udinese",
+  "pv": 13,
+  "mv": 6.04,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Doig",
+  "squadra": "Sassuolo",
+  "pv": 18,
+  "mv": 5.81,
+  "fm": 5.69,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Spence",
+  "squadra": "Genoa",
+  "pv": 3,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dorgu",
+  "squadra": "Lecce",
+  "pv": 18,
+  "mv": 5.89,
+  "fm": 5.92,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pedersen",
+  "squadra": "Sassuolo",
+  "pv": 19,
+  "mv": 5.74,
+  "fm": 5.74,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Giannetti L.",
+  "squadra": "Udinese",
+  "pv": 4,
+  "mv": 5.88,
+  "fm": 6.38,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mario Rui",
+  "squadra": "Napoli",
+  "pv": 15,
+  "mv": 5.83,
+  "fm": 5.73,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "D'Ambrosio",
+  "squadra": "Monza",
+  "pv": 19,
+  "mv": 5.84,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Juan Jesus",
+  "squadra": "Napoli",
+  "pv": 15,
+  "mv": 5.8,
+  "fm": 5.63,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bonucci",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Goldaniga",
+  "squadra": "Cagliari",
+  "pv": 13,
+  "mv": 5.65,
+  "fm": 5.54,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Faraoni",
+  "squadra": "Fiorentina",
+  "pv": 15,
+  "mv": 5.77,
+  "fm": 5.67,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pereira P.",
+  "squadra": "Monza",
+  "pv": 14,
+  "mv": 5.75,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ceccherini",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Biraschi",
+  "squadra": "Genoa",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 9.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bereszynski",
+  "squadra": "Empoli",
+  "pv": 12,
+  "mv": 5.79,
+  "fm": 5.79,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Marusic",
+  "squadra": "Lazio",
+  "pv": 26,
+  "mv": 5.63,
+  "fm": 5.58,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mina",
+  "squadra": "Cagliari",
+  "pv": 5,
+  "mv": 5.9,
+  "fm": 5.8,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "N'Dicka",
+  "squadra": "Roma",
+  "pv": 16,
+  "mv": 5.88,
+  "fm": 5.84,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Walukiewicz",
+  "squadra": "Empoli",
+  "pv": 17,
+  "mv": 5.68,
+  "fm": 5.53,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Okoli",
+  "squadra": "Frosinone",
+  "pv": 22,
+  "mv": 5.7,
+  "fm": 5.57,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Vojvoda",
+  "squadra": "Torino",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ismajli",
+  "squadra": "Empoli",
+  "pv": 19,
+  "mv": 5.63,
+  "fm": 5.61,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bastoni S.",
+  "squadra": "Empoli",
+  "pv": 6,
+  "mv": 5.92,
+  "fm": 6.25,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Parisi",
+  "squadra": "Fiorentina",
+  "pv": 15,
+  "mv": 5.63,
+  "fm": 5.6,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ebuehi",
+  "squadra": "Empoli",
+  "pv": 14,
+  "mv": 5.79,
+  "fm": 5.86,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Vina",
+  "squadra": "Sassuolo",
+  "pv": 15,
+  "mv": 5.7,
+  "fm": 5.6,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Djalo'",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Olivera",
+  "squadra": "Napoli",
+  "pv": 14,
+  "mv": 5.93,
+  "fm": 5.82,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Sambia",
+  "squadra": "Salernitana",
+  "pv": 7,
+  "mv": 5.93,
+  "fm": 5.93,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hien",
+  "squadra": "Atalanta",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ferreira J.",
+  "squadra": "Udinese",
+  "pv": 21,
+  "mv": 5.71,
+  "fm": 5.57,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kristensen T.",
+  "squadra": "Udinese",
+  "pv": 17,
+  "mv": 5.62,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Centonze",
+  "squadra": "Verona",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Masina",
+  "squadra": "Torino",
+  "pv": 7,
+  "mv": 5.71,
+  "fm": 5.57,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hysaj",
+  "squadra": "Lazio",
+  "pv": 11,
+  "mv": 5.59,
+  "fm": 5.55,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Izzo",
+  "squadra": "Monza",
+  "pv": 9,
+  "mv": 5.83,
+  "fm": 5.61,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Alex Sandro",
+  "squadra": "Juventus",
+  "pv": 7,
+  "mv": 5.79,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hateboer",
+  "squadra": "Atalanta",
+  "pv": 10,
+  "mv": 5.65,
+  "fm": 5.65,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kabasele",
+  "squadra": "Udinese",
+  "pv": 10,
+  "mv": 5.75,
+  "fm": 5.8,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Celik",
+  "squadra": "Roma",
+  "pv": 6,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Vinagre",
+  "squadra": "Verona",
+  "pv": 2,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pirola",
+  "squadra": "Salernitana",
+  "pv": 15,
+  "mv": 5.47,
+  "fm": 5.6,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Lovato",
+  "squadra": "Torino",
+  "pv": 15,
+  "mv": 5.5,
+  "fm": 5.4,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Altare",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Stojanovic",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Casale",
+  "squadra": "Lazio",
+  "pv": 11,
+  "mv": 5.64,
+  "fm": 5.59,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zanoli",
+  "squadra": "Salernitana",
+  "pv": 8,
+  "mv": 5.69,
+  "fm": 5.38,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Haps",
+  "squadra": "Genoa",
+  "pv": 9,
+  "mv": 5.83,
+  "fm": 5.94,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Viti",
+  "squadra": "Sassuolo",
+  "pv": 9,
+  "mv": 5.78,
+  "fm": 5.56,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Coppola D.",
+  "squadra": "Verona",
+  "pv": 10,
+  "mv": 5.7,
+  "fm": 5.7,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Cabal",
+  "squadra": "Verona",
+  "pv": 8,
+  "mv": 5.81,
+  "fm": 5.69,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Thiaw",
+  "squadra": "Milan",
+  "pv": 13,
+  "mv": 5.73,
+  "fm": 5.54,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Oyono",
+  "squadra": "Frosinone",
+  "pv": 14,
+  "mv": 5.82,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Natan",
+  "squadra": "Napoli",
+  "pv": 12,
+  "mv": 5.83,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pierozzi",
+  "squadra": "Salernitana",
+  "pv": 5,
+  "mv": 6.1,
+  "fm": 5.9,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pasalidis",
+  "squadra": "Salernitana",
+  "pv": 3,
+  "mv": 5.17,
+  "fm": 5.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gyomber",
+  "squadra": "Salernitana",
+  "pv": 19,
+  "mv": 5.37,
+  "fm": 5.13,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Toloi",
+  "squadra": "Atalanta",
+  "pv": 6,
+  "mv": 5.92,
+  "fm": 5.58,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bonifazi",
+  "squadra": "Frosinone",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ballo-Toure'",
+  "squadra": "Milan",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Amione",
+  "squadra": "Verona",
+  "pv": 8,
+  "mv": 5.69,
+  "fm": 5.56,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Di Pardo",
+  "squadra": "Cagliari",
+  "pv": 6,
+  "mv": 5.83,
+  "fm": 5.83,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Daniliuc",
+  "squadra": "Salernitana",
+  "pv": 11,
+  "mv": 5.45,
+  "fm": 5.36,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Soppy",
+  "squadra": "Torino",
+  "pv": 3,
+  "mv": 5.83,
+  "fm": 5.83,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Zima",
+  "squadra": "Torino",
+  "pv": 3,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Obert",
+  "squadra": "Cagliari",
+  "pv": 9,
+  "mv": 5.33,
+  "fm": 5.28,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Tressoldi",
+  "squadra": "Sassuolo",
+  "pv": 19,
+  "mv": 5.16,
+  "fm": 5.03,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hefti",
+  "squadra": "Genoa",
+  "pv": 5,
+  "mv": 5.7,
+  "fm": 5.7,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dodo'",
+  "squadra": "Fiorentina",
+  "pv": 3,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Guessand A.",
+  "squadra": "Udinese",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Vogliacco",
+  "squadra": "Genoa",
+  "pv": 7,
+  "mv": 5.71,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gonzalez F.",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Hatzidiakos",
+  "squadra": "Cagliari",
+  "pv": 10,
+  "mv": 5.45,
+  "fm": 5.4,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bonfanti",
+  "squadra": "Atalanta",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pellegrino",
+  "squadra": "Salernitana",
+  "pv": 5,
+  "mv": 5.2,
+  "fm": 5.2,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Wieteska",
+  "squadra": "Cagliari",
+  "pv": 10,
+  "mv": 5.55,
+  "fm": 5.45,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Touba",
+  "squadra": "Lecce",
+  "pv": 6,
+  "mv": 5.42,
+  "fm": 5.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Sazonov",
+  "squadra": "Torino",
+  "pv": 7,
+  "mv": 5.71,
+  "fm": 5.64,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bartesaghi",
+  "squadra": "Milan",
+  "pv": 3,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Simic J.",
+  "squadra": "Milan",
+  "pv": 3,
+  "mv": 6.17,
+  "fm": 7.17,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ilic M.",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Dermaku",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Tonelli",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "De Sciglio",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Capradossi",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pezzella Giu.",
+  "squadra": "Empoli",
+  "pv": 4,
+  "mv": 5.38,
+  "fm": 5.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Pajac",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Venuti",
+  "squadra": "Lecce",
+  "pv": 3,
+  "mv": 5.5,
+  "fm": 5.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Palomino",
+  "squadra": "Atalanta",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Donati",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bettella",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Gunter",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kumbulla",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Soumaoro",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kalulu",
+  "squadra": "Milan",
+  "pv": 3,
+  "mv": 5.83,
+  "fm": 5.83,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Antov",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Amey",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Cittadini",
+  "squadra": "Genoa",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Ebosse",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Abankwah",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Bronn",
+  "squadra": "Salernitana",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Sosa",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Guarino",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Carboni F.",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Missori",
+  "squadra": "Sassuolo",
+  "pv": 3,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Flamingo",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Smajlovic",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Szyminski",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Klitten",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Matturro",
+  "squadra": "Genoa",
+  "pv": 2,
+  "mv": 5.25,
+  "fm": 4.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "N'Guessan",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Corazza",
+  "squadra": "Bologna",
+  "pv": 3,
+  "mv": 5.83,
+  "fm": 5.67,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Mateus Lusuardi",
+  "squadra": "Frosinone",
+  "pv": 3,
+  "mv": 5.17,
+  "fm": 5.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Kalaj",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Comuzzo",
+  "squadra": "Fiorentina",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Jimenez A.",
+  "squadra": "Milan",
+  "pv": 1,
+  "mv": 5.0,
+  "fm": 4.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "D",
+  "nome": "Goglichidze",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gudmundsson A.",
+  "squadra": "Genoa",
+  "pv": 24,
+  "mv": 6.52,
+  "fm": 7.71,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Calhanoglu",
+  "squadra": "Inter",
+  "pv": 23,
+  "mv": 6.52,
+  "fm": 7.72,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Koopmeiners",
+  "squadra": "Atalanta",
+  "pv": 23,
+  "mv": 6.41,
+  "fm": 7.54,
+  "gf": 8,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pulisic",
+  "squadra": "Milan",
+  "pv": 24,
+  "mv": 6.33,
+  "fm": 7.4,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Orsolini",
+  "squadra": "Bologna",
+  "pv": 21,
+  "mv": 6.29,
+  "fm": 7.5,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Colpani",
+  "squadra": "Monza",
+  "pv": 26,
+  "mv": 6.29,
+  "fm": 7.15,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Candreva",
+  "squadra": "Salernitana",
+  "pv": 25,
+  "mv": 6.3,
+  "fm": 7.08,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "De Ketelaere",
+  "squadra": "Atalanta",
+  "pv": 23,
+  "mv": 6.28,
+  "fm": 7.22,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Politano",
+  "squadra": "Napoli",
+  "pv": 25,
+  "mv": 6.28,
+  "fm": 7.12,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ferguson",
+  "squadra": "Bologna",
+  "pv": 25,
+  "mv": 6.42,
+  "fm": 7.0,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bonaventura",
+  "squadra": "Fiorentina",
+  "pv": 24,
+  "mv": 6.19,
+  "fm": 6.94,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mkhitaryan",
+  "squadra": "Inter",
+  "pv": 26,
+  "mv": 6.46,
+  "fm": 6.81,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Luis Alberto",
+  "squadra": "Lazio",
+  "pv": 23,
+  "mv": 6.22,
+  "fm": 6.78,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ederson D.s.",
+  "squadra": "Atalanta",
+  "pv": 25,
+  "mv": 6.16,
+  "fm": 6.66,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pellegrini Lo.",
+  "squadra": "Roma",
+  "pv": 18,
+  "mv": 6.17,
+  "fm": 7.06,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Loftus-Cheek",
+  "squadra": "Milan",
+  "pv": 22,
+  "mv": 6.16,
+  "fm": 6.8,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Barella",
+  "squadra": "Inter",
+  "pv": 25,
+  "mv": 6.36,
+  "fm": 6.64,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pasalic",
+  "squadra": "Atalanta",
+  "pv": 22,
+  "mv": 6.14,
+  "fm": 6.77,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Samardzic",
+  "squadra": "Udinese",
+  "pv": 23,
+  "mv": 6.13,
+  "fm": 6.59,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Oudin",
+  "squadra": "Lecce",
+  "pv": 20,
+  "mv": 6.22,
+  "fm": 6.68,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Fabbian",
+  "squadra": "Bologna",
+  "pv": 14,
+  "mv": 6.32,
+  "fm": 7.14,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Felipe Anderson",
+  "squadra": "Lazio",
+  "pv": 26,
+  "mv": 6.06,
+  "fm": 6.6,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mazzitelli",
+  "squadra": "Frosinone",
+  "pv": 19,
+  "mv": 6.13,
+  "fm": 6.79,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Rabiot",
+  "squadra": "Juventus",
+  "pv": 22,
+  "mv": 6.2,
+  "fm": 6.7,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pereyra",
+  "squadra": "Udinese",
+  "pv": 18,
+  "mv": 6.17,
+  "fm": 6.64,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Miranchuk",
+  "squadra": "Atalanta",
+  "pv": 14,
+  "mv": 6.18,
+  "fm": 6.79,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Harroui",
+  "squadra": "Frosinone",
+  "pv": 14,
+  "mv": 6.14,
+  "fm": 6.86,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Carboni V.",
+  "squadra": "Monza",
+  "pv": 15,
+  "mv": 6.13,
+  "fm": 6.6,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Duncan",
+  "squadra": "Fiorentina",
+  "pv": 20,
+  "mv": 6.12,
+  "fm": 6.48,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zaccagni",
+  "squadra": "Lazio",
+  "pv": 19,
+  "mv": 6.13,
+  "fm": 6.47,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Cristante",
+  "squadra": "Roma",
+  "pv": 25,
+  "mv": 6.14,
+  "fm": 6.38,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Malinovskyi",
+  "squadra": "Genoa",
+  "pv": 20,
+  "mv": 6.2,
+  "fm": 6.52,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Brescianini",
+  "squadra": "Frosinone",
+  "pv": 23,
+  "mv": 6.09,
+  "fm": 6.5,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Frendrup",
+  "squadra": "Genoa",
+  "pv": 25,
+  "mv": 6.28,
+  "fm": 6.42,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zielinski",
+  "squadra": "Napoli",
+  "pv": 21,
+  "mv": 5.98,
+  "fm": 6.33,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Vecino",
+  "squadra": "Lazio",
+  "pv": 15,
+  "mv": 6.13,
+  "fm": 6.67,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Viola",
+  "squadra": "Cagliari",
+  "pv": 18,
+  "mv": 6.11,
+  "fm": 6.47,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "El Shaarawy",
+  "squadra": "Roma",
+  "pv": 20,
+  "mv": 6.1,
+  "fm": 6.58,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pessina",
+  "squadra": "Monza",
+  "pv": 26,
+  "mv": 6.13,
+  "fm": 6.46,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Frattesi",
+  "squadra": "Inter",
+  "pv": 18,
+  "mv": 6.22,
+  "fm": 6.92,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mckennie",
+  "squadra": "Juventus",
+  "pv": 24,
+  "mv": 6.27,
+  "fm": 6.35,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Thorstvedt",
+  "squadra": "Sassuolo",
+  "pv": 23,
+  "mv": 5.91,
+  "fm": 6.35,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Reijnders",
+  "squadra": "Milan",
+  "pv": 24,
+  "mv": 6.1,
+  "fm": 6.38,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Messias",
+  "squadra": "Genoa",
+  "pv": 11,
+  "mv": 6.32,
+  "fm": 6.59,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ilic",
+  "squadra": "Torino",
+  "pv": 22,
+  "mv": 6.11,
+  "fm": 6.36,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Vlasic",
+  "squadra": "Torino",
+  "pv": 24,
+  "mv": 6.0,
+  "fm": 6.27,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Alcaraz",
+  "squadra": "Juventus",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Guendouzi",
+  "squadra": "Lazio",
+  "pv": 24,
+  "mv": 6.06,
+  "fm": 6.31,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gaetano",
+  "squadra": "Cagliari",
+  "pv": 10,
+  "mv": 6.1,
+  "fm": 6.95,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Dominguez",
+  "squadra": "Bologna",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Tchaouna",
+  "squadra": "Salernitana",
+  "pv": 17,
+  "mv": 5.97,
+  "fm": 6.26,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Oristanio",
+  "squadra": "Cagliari",
+  "pv": 18,
+  "mv": 6.14,
+  "fm": 6.5,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Suslov",
+  "squadra": "Verona",
+  "pv": 19,
+  "mv": 6.13,
+  "fm": 6.32,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mandragora",
+  "squadra": "Fiorentina",
+  "pv": 20,
+  "mv": 5.9,
+  "fm": 6.28,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zurkowski",
+  "squadra": "Empoli",
+  "pv": 6,
+  "mv": 6.58,
+  "fm": 8.42,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Elmas",
+  "squadra": "Napoli",
+  "pv": 9,
+  "mv": 6.0,
+  "fm": 6.56,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kostic",
+  "squadra": "Juventus",
+  "pv": 23,
+  "mv": 6.0,
+  "fm": 6.09,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Radonjic",
+  "squadra": "Torino",
+  "pv": 8,
+  "mv": 6.06,
+  "fm": 7.19,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Baldanzi",
+  "squadra": "Roma",
+  "pv": 16,
+  "mv": 6.09,
+  "fm": 6.44,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Iling Junior",
+  "squadra": "Juventus",
+  "pv": 11,
+  "mv": 6.09,
+  "fm": 6.55,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "De Roon",
+  "squadra": "Atalanta",
+  "pv": 23,
+  "mv": 6.02,
+  "fm": 6.04,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Paredes",
+  "squadra": "Roma",
+  "pv": 24,
+  "mv": 6.04,
+  "fm": 6.23,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gagliardini",
+  "squadra": "Monza",
+  "pv": 24,
+  "mv": 5.92,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Locatelli",
+  "squadra": "Juventus",
+  "pv": 24,
+  "mv": 5.92,
+  "fm": 6.04,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kastanos",
+  "squadra": "Salernitana",
+  "pv": 20,
+  "mv": 6.02,
+  "fm": 6.25,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Arthur Melo",
+  "squadra": "Fiorentina",
+  "pv": 25,
+  "mv": 6.02,
+  "fm": 6.04,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Duda",
+  "squadra": "Verona",
+  "pv": 22,
+  "mv": 6.07,
+  "fm": 6.02,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Nandez",
+  "squadra": "Cagliari",
+  "pv": 19,
+  "mv": 5.95,
+  "fm": 6.08,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kovalenko",
+  "squadra": "Empoli",
+  "pv": 11,
+  "mv": 6.05,
+  "fm": 6.41,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Matheus Henrique",
+  "squadra": "Sassuolo",
+  "pv": 20,
+  "mv": 5.85,
+  "fm": 6.08,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lovric",
+  "squadra": "Udinese",
+  "pv": 24,
+  "mv": 6.0,
+  "fm": 6.15,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Hjulmand",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Moro N.",
+  "squadra": "Bologna",
+  "pv": 14,
+  "mv": 6.04,
+  "fm": 6.25,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Folorunsho",
+  "squadra": "Verona",
+  "pv": 25,
+  "mv": 5.92,
+  "fm": 6.24,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Freuler",
+  "squadra": "Bologna",
+  "pv": 21,
+  "mv": 6.12,
+  "fm": 6.12,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Walace",
+  "squadra": "Udinese",
+  "pv": 26,
+  "mv": 5.92,
+  "fm": 6.08,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Matic",
+  "squadra": "Roma",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Aouar",
+  "squadra": "Roma",
+  "pv": 8,
+  "mv": 6.0,
+  "fm": 6.56,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Strefezza",
+  "squadra": "Lecce",
+  "pv": 19,
+  "mv": 5.82,
+  "fm": 5.87,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Chukwueze",
+  "squadra": "Milan",
+  "pv": 12,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bove",
+  "squadra": "Roma",
+  "pv": 22,
+  "mv": 6.05,
+  "fm": 6.05,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bajrami",
+  "squadra": "Sassuolo",
+  "pv": 19,
+  "mv": 5.95,
+  "fm": 6.16,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Volpato",
+  "squadra": "Sassuolo",
+  "pv": 11,
+  "mv": 5.95,
+  "fm": 6.23,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Adli",
+  "squadra": "Milan",
+  "pv": 15,
+  "mv": 6.07,
+  "fm": 6.2,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Badelj",
+  "squadra": "Genoa",
+  "pv": 21,
+  "mv": 5.93,
+  "fm": 5.95,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lazovic",
+  "squadra": "Verona",
+  "pv": 19,
+  "mv": 5.82,
+  "fm": 5.92,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Verdi",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lobotka",
+  "squadra": "Napoli",
+  "pv": 26,
+  "mv": 5.9,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Schouten",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Saelemaekers",
+  "squadra": "Bologna",
+  "pv": 19,
+  "mv": 5.95,
+  "fm": 6.05,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Marin",
+  "squadra": "Empoli",
+  "pv": 19,
+  "mv": 6.0,
+  "fm": 6.08,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Reinier",
+  "squadra": "Frosinone",
+  "pv": 11,
+  "mv": 5.95,
+  "fm": 6.23,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ndoye",
+  "squadra": "Bologna",
+  "pv": 20,
+  "mv": 6.05,
+  "fm": 6.02,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Aebischer",
+  "squadra": "Bologna",
+  "pv": 22,
+  "mv": 6.05,
+  "fm": 5.95,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Sabiri",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Cataldi",
+  "squadra": "Lazio",
+  "pv": 17,
+  "mv": 6.03,
+  "fm": 6.06,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Traore' Hj.",
+  "squadra": "Napoli",
+  "pv": 2,
+  "mv": 6.25,
+  "fm": 6.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Weah",
+  "squadra": "Juventus",
+  "pv": 17,
+  "mv": 5.97,
+  "fm": 5.97,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Tameze",
+  "squadra": "Torino",
+  "pv": 20,
+  "mv": 5.92,
+  "fm": 5.92,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Maldini",
+  "squadra": "Monza",
+  "pv": 9,
+  "mv": 6.0,
+  "fm": 6.39,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ricci S.",
+  "squadra": "Torino",
+  "pv": 20,
+  "mv": 5.92,
+  "fm": 5.98,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Asllani",
+  "squadra": "Inter",
+  "pv": 9,
+  "mv": 6.17,
+  "fm": 6.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ciurria",
+  "squadra": "Monza",
+  "pv": 21,
+  "mv": 5.86,
+  "fm": 5.86,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bondo",
+  "squadra": "Monza",
+  "pv": 14,
+  "mv": 5.89,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Fazzini",
+  "squadra": "Empoli",
+  "pv": 16,
+  "mv": 5.97,
+  "fm": 6.09,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Boloca",
+  "squadra": "Sassuolo",
+  "pv": 21,
+  "mv": 5.86,
+  "fm": 5.83,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Tchatchoua",
+  "squadra": "Verona",
+  "pv": 18,
+  "mv": 5.78,
+  "fm": 5.81,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Payero",
+  "squadra": "Udinese",
+  "pv": 18,
+  "mv": 5.83,
+  "fm": 5.94,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ibrahimovic A.",
+  "squadra": "Frosinone",
+  "pv": 7,
+  "mv": 6.07,
+  "fm": 6.57,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Grassi",
+  "squadra": "Empoli",
+  "pv": 22,
+  "mv": 5.91,
+  "fm": 5.77,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Strootman",
+  "squadra": "Genoa",
+  "pv": 14,
+  "mv": 5.93,
+  "fm": 5.96,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Jankto",
+  "squadra": "Cagliari",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 6.04,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Renato Sanches",
+  "squadra": "Roma",
+  "pv": 4,
+  "mv": 6.0,
+  "fm": 6.5,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bennacer",
+  "squadra": "Milan",
+  "pv": 8,
+  "mv": 5.94,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Sottil",
+  "squadra": "Fiorentina",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 6.21,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zambo Anguissa",
+  "squadra": "Napoli",
+  "pv": 21,
+  "mv": 5.9,
+  "fm": 5.93,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Thorsby",
+  "squadra": "Genoa",
+  "pv": 13,
+  "mv": 5.81,
+  "fm": 6.08,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Rovella",
+  "squadra": "Lazio",
+  "pv": 17,
+  "mv": 6.09,
+  "fm": 5.94,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Amrabat",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Musah",
+  "squadra": "Milan",
+  "pv": 16,
+  "mv": 5.97,
+  "fm": 5.91,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Miretti",
+  "squadra": "Juventus",
+  "pv": 14,
+  "mv": 5.82,
+  "fm": 6.04,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lindstrom",
+  "squadra": "Napoli",
+  "pv": 14,
+  "mv": 5.96,
+  "fm": 5.89,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gonzalez J.",
+  "squadra": "Lecce",
+  "pv": 17,
+  "mv": 5.94,
+  "fm": 5.94,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gomez",
+  "squadra": "Monza",
+  "pv": 2,
+  "mv": 6.25,
+  "fm": 6.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Saponara",
+  "squadra": "Verona",
+  "pv": 10,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Barak",
+  "squadra": "Fiorentina",
+  "pv": 6,
+  "mv": 6.08,
+  "fm": 6.5,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Dendoncker",
+  "squadra": "Napoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ikone'",
+  "squadra": "Fiorentina",
+  "pv": 16,
+  "mv": 5.72,
+  "fm": 5.81,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zalewski",
+  "squadra": "Roma",
+  "pv": 17,
+  "mv": 5.79,
+  "fm": 5.76,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Maleh",
+  "squadra": "Empoli",
+  "pv": 23,
+  "mv": 5.72,
+  "fm": 5.52,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Hongla",
+  "squadra": "Verona",
+  "pv": 14,
+  "mv": 5.82,
+  "fm": 5.82,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Vignato S.",
+  "squadra": "Monza",
+  "pv": 8,
+  "mv": 6.0,
+  "fm": 6.25,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kamada",
+  "squadra": "Lazio",
+  "pv": 15,
+  "mv": 5.73,
+  "fm": 5.9,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Barrenechea",
+  "squadra": "Frosinone",
+  "pv": 24,
+  "mv": 5.83,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Rafia",
+  "squadra": "Lecce",
+  "pv": 18,
+  "mv": 5.92,
+  "fm": 5.86,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "El Azzouzi",
+  "squadra": "Bologna",
+  "pv": 5,
+  "mv": 6.2,
+  "fm": 6.8,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gelli",
+  "squadra": "Frosinone",
+  "pv": 16,
+  "mv": 5.88,
+  "fm": 5.81,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ramadani",
+  "squadra": "Lecce",
+  "pv": 24,
+  "mv": 5.83,
+  "fm": 5.75,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kaba",
+  "squadra": "Lecce",
+  "pv": 21,
+  "mv": 5.83,
+  "fm": 5.74,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Prati",
+  "squadra": "Cagliari",
+  "pv": 18,
+  "mv": 5.86,
+  "fm": 5.78,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Martegani",
+  "squadra": "Salernitana",
+  "pv": 13,
+  "mv": 5.85,
+  "fm": 6.04,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Serdar",
+  "squadra": "Verona",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 5.79,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Buchanan",
+  "squadra": "Inter",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Baez",
+  "squadra": "Frosinone",
+  "pv": 10,
+  "mv": 6.0,
+  "fm": 6.25,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Aramu",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Linetty",
+  "squadra": "Torino",
+  "pv": 16,
+  "mv": 5.97,
+  "fm": 5.72,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Nicolussi Caviglia",
+  "squadra": "Juventus",
+  "pv": 5,
+  "mv": 5.9,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Demme",
+  "squadra": "Napoli",
+  "pv": 2,
+  "mv": 6.25,
+  "fm": 6.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Maggiore",
+  "squadra": "Salernitana",
+  "pv": 18,
+  "mv": 5.72,
+  "fm": 5.69,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gyasi",
+  "squadra": "Empoli",
+  "pv": 17,
+  "mv": 5.62,
+  "fm": 5.68,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Coulibaly L.",
+  "squadra": "Salernitana",
+  "pv": 16,
+  "mv": 5.69,
+  "fm": 5.62,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Marcos Antonio",
+  "squadra": "Lazio",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Blin",
+  "squadra": "Lecce",
+  "pv": 17,
+  "mv": 5.71,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ranocchia F.",
+  "squadra": "Empoli",
+  "pv": 9,
+  "mv": 5.89,
+  "fm": 5.72,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zerbin",
+  "squadra": "Monza",
+  "pv": 6,
+  "mv": 5.83,
+  "fm": 5.83,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Sulemana I.",
+  "squadra": "Cagliari",
+  "pv": 12,
+  "mv": 5.88,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Zarraga",
+  "squadra": "Udinese",
+  "pv": 3,
+  "mv": 6.0,
+  "fm": 7.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mboula",
+  "squadra": "Verona",
+  "pv": 7,
+  "mv": 5.71,
+  "fm": 5.86,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Makoumbou",
+  "squadra": "Cagliari",
+  "pv": 24,
+  "mv": 5.56,
+  "fm": 5.54,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Cajuste",
+  "squadra": "Napoli",
+  "pv": 14,
+  "mv": 5.75,
+  "fm": 5.64,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Legowski",
+  "squadra": "Salernitana",
+  "pv": 18,
+  "mv": 5.69,
+  "fm": 5.61,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kutlu",
+  "squadra": "Genoa",
+  "pv": 6,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Dani Silva",
+  "squadra": "Verona",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mitrovic S.",
+  "squadra": "Verona",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Krunic",
+  "squadra": "Milan",
+  "pv": 9,
+  "mv": 5.89,
+  "fm": 5.72,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Haas",
+  "squadra": "Empoli",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Garritano",
+  "squadra": "Frosinone",
+  "pv": 10,
+  "mv": 5.9,
+  "fm": 5.85,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Castillejo",
+  "squadra": "Sassuolo",
+  "pv": 10,
+  "mv": 5.8,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Klaassen",
+  "squadra": "Inter",
+  "pv": 4,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Fagioli",
+  "squadra": "Juventus",
+  "pv": 6,
+  "mv": 5.92,
+  "fm": 6.08,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Henderson L.",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lopez M.",
+  "squadra": "Fiorentina",
+  "pv": 10,
+  "mv": 5.65,
+  "fm": 5.55,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Racic",
+  "squadra": "Sassuolo",
+  "pv": 10,
+  "mv": 5.85,
+  "fm": 6.15,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Urbanski",
+  "squadra": "Bologna",
+  "pv": 10,
+  "mv": 5.75,
+  "fm": 5.6,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Kourfalidis",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bohinen",
+  "squadra": "Genoa",
+  "pv": 12,
+  "mv": 5.83,
+  "fm": 5.79,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gineitis",
+  "squadra": "Torino",
+  "pv": 7,
+  "mv": 5.86,
+  "fm": 5.71,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lipani",
+  "squadra": "Sassuolo",
+  "pv": 4,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lulic K.",
+  "squadra": "Frosinone",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Machin",
+  "squadra": "Monza",
+  "pv": 8,
+  "mv": 5.94,
+  "fm": 5.81,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Deiola",
+  "squadra": "Cagliari",
+  "pv": 11,
+  "mv": 5.59,
+  "fm": 5.27,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Coulibaly M.",
+  "squadra": "Salernitana",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Valoti",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Akpa Akpro",
+  "squadra": "Monza",
+  "pv": 7,
+  "mv": 5.79,
+  "fm": 5.57,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pobega",
+  "squadra": "Milan",
+  "pv": 7,
+  "mv": 5.93,
+  "fm": 5.93,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Basic",
+  "squadra": "Salernitana",
+  "pv": 6,
+  "mv": 5.67,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Belahyane",
+  "squadra": "Verona",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Amatucci",
+  "squadra": "Fiorentina",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pagano",
+  "squadra": "Roma",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Gomis I.",
+  "squadra": "Salernitana",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "D'Alessandro",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Mancosu",
+  "squadra": "Cagliari",
+  "pv": 3,
+  "mv": 5.33,
+  "fm": 4.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pogba",
+  "squadra": "Juventus",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Benassi",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Sensi",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Rog",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Melegoni",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Vignato",
+  "squadra": "Salernitana",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Crociata",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Bourabia",
+  "squadra": "Frosinone",
+  "pv": 5,
+  "mv": 5.5,
+  "fm": 5.4,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Castrovilli",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Jagiello",
+  "squadra": "Genoa",
+  "pv": 1,
+  "mv": 5.0,
+  "fm": 5.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Obiang",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Quina",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Adopo",
+  "squadra": "Atalanta",
+  "pv": 3,
+  "mv": 5.67,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Romero L.",
+  "squadra": "Milan",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pyyhtia",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pafundi",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Helgason",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Hrustic",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Ilkhan",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Degli Innocenti",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Faticanti",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Pisilli",
+  "squadra": "Roma",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Belardinelli",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Camara E.",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Lella",
+  "squadra": "Cagliari",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Haoudi",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Saco",
+  "squadra": "Napoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Joselito",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Infantino",
+  "squadra": "Fiorentina",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Nonge",
+  "squadra": "Juventus",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "C",
+  "nome": "Popovic",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Martinez L.",
+  "squadra": "Inter",
+  "pv": 24,
+  "mv": 6.88,
+  "fm": 9.67,
+  "gf": 23,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Giroud",
+  "squadra": "Milan",
+  "pv": 23,
+  "mv": 6.37,
+  "fm": 8.11,
+  "gf": 12,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Thuram",
+  "squadra": "Inter",
+  "pv": 24,
+  "mv": 6.67,
+  "fm": 8.1,
+  "gf": 10,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Dybala",
+  "squadra": "Roma",
+  "pv": 18,
+  "mv": 6.5,
+  "fm": 8.58,
+  "gf": 11,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Vlahovic",
+  "squadra": "Juventus",
+  "pv": 23,
+  "mv": 6.41,
+  "fm": 8.15,
+  "gf": 15,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Berardi",
+  "squadra": "Sassuolo",
+  "pv": 16,
+  "mv": 6.56,
+  "fm": 8.19,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Zirkzee",
+  "squadra": "Bologna",
+  "pv": 25,
+  "mv": 6.52,
+  "fm": 7.62,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Soule'",
+  "squadra": "Frosinone",
+  "pv": 24,
+  "mv": 6.44,
+  "fm": 7.62,
+  "gf": 10,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Osimhen",
+  "squadra": "Napoli",
+  "pv": 15,
+  "mv": 6.57,
+  "fm": 8.57,
+  "gf": 11,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Zapata D.",
+  "squadra": "Torino",
+  "pv": 25,
+  "mv": 6.3,
+  "fm": 7.46,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Scamacca",
+  "squadra": "Atalanta",
+  "pv": 18,
+  "mv": 6.14,
+  "fm": 7.28,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lookman",
+  "squadra": "Atalanta",
+  "pv": 19,
+  "mv": 6.32,
+  "fm": 7.47,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lukaku",
+  "squadra": "Roma",
+  "pv": 23,
+  "mv": 6.11,
+  "fm": 7.13,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Rafael Leao",
+  "squadra": "Milan",
+  "pv": 22,
+  "mv": 6.39,
+  "fm": 7.16,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Chiesa",
+  "squadra": "Juventus",
+  "pv": 20,
+  "mv": 6.25,
+  "fm": 7.18,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Pinamonti",
+  "squadra": "Sassuolo",
+  "pv": 26,
+  "mv": 5.96,
+  "fm": 6.85,
+  "gf": 9,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Gonzalez N.",
+  "squadra": "Fiorentina",
+  "pv": 19,
+  "mv": 6.18,
+  "fm": 7.0,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kvaratskhelia",
+  "squadra": "Napoli",
+  "pv": 24,
+  "mv": 6.23,
+  "fm": 7.27,
+  "gf": 8,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ngonge",
+  "squadra": "Napoli",
+  "pv": 21,
+  "mv": 6.17,
+  "fm": 7.17,
+  "gf": 7,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Retegui",
+  "squadra": "Genoa",
+  "pv": 19,
+  "mv": 6.18,
+  "fm": 7.13,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cabral",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Beltran L.",
+  "squadra": "Fiorentina",
+  "pv": 21,
+  "mv": 6.21,
+  "fm": 6.98,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Beto",
+  "squadra": "Udinese",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lucca",
+  "squadra": "Udinese",
+  "pv": 23,
+  "mv": 6.04,
+  "fm": 6.85,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Luvumbo",
+  "squadra": "Cagliari",
+  "pv": 21,
+  "mv": 6.24,
+  "fm": 6.88,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Immobile",
+  "squadra": "Lazio",
+  "pv": 20,
+  "mv": 5.98,
+  "fm": 6.82,
+  "gf": 6,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Belotti",
+  "squadra": "Fiorentina",
+  "pv": 15,
+  "mv": 6.27,
+  "fm": 7.23,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Piccoli",
+  "squadra": "Lecce",
+  "pv": 21,
+  "mv": 6.07,
+  "fm": 6.6,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Djuric",
+  "squadra": "Monza",
+  "pv": 24,
+  "mv": 6.12,
+  "fm": 6.52,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Thauvin",
+  "squadra": "Udinese",
+  "pv": 20,
+  "mv": 6.15,
+  "fm": 6.7,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Jovic",
+  "squadra": "Milan",
+  "pv": 15,
+  "mv": 5.93,
+  "fm": 6.87,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Arnautovic",
+  "squadra": "Inter",
+  "pv": 17,
+  "mv": 6.09,
+  "fm": 6.62,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Raspadori",
+  "squadra": "Napoli",
+  "pv": 23,
+  "mv": 6.0,
+  "fm": 6.39,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Colombo",
+  "squadra": "Monza",
+  "pv": 21,
+  "mv": 5.93,
+  "fm": 6.5,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kaio Jorge",
+  "squadra": "Frosinone",
+  "pv": 12,
+  "mv": 6.04,
+  "fm": 6.71,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Castellanos",
+  "squadra": "Lazio",
+  "pv": 19,
+  "mv": 5.92,
+  "fm": 6.39,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Okafor",
+  "squadra": "Milan",
+  "pv": 14,
+  "mv": 6.07,
+  "fm": 6.89,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Pavoletti",
+  "squadra": "Cagliari",
+  "pv": 14,
+  "mv": 6.25,
+  "fm": 7.04,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Muriel",
+  "squadra": "Atalanta",
+  "pv": 13,
+  "mv": 6.15,
+  "fm": 6.69,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Dia",
+  "squadra": "Salernitana",
+  "pv": 17,
+  "mv": 5.85,
+  "fm": 6.53,
+  "gf": 4,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lauriente'",
+  "squadra": "Sassuolo",
+  "pv": 26,
+  "mv": 5.96,
+  "fm": 6.23,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Krstovic",
+  "squadra": "Lecce",
+  "pv": 22,
+  "mv": 5.84,
+  "fm": 6.32,
+  "gf": 5,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Barrow",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ceesay",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Vitinha O.",
+  "squadra": "Genoa",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Sanabria",
+  "squadra": "Torino",
+  "pv": 23,
+  "mv": 5.8,
+  "fm": 6.15,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Henry",
+  "squadra": "Verona",
+  "pv": 8,
+  "mv": 6.06,
+  "fm": 6.75,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Mota",
+  "squadra": "Monza",
+  "pv": 24,
+  "mv": 5.94,
+  "fm": 6.33,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Banda",
+  "squadra": "Lecce",
+  "pv": 17,
+  "mv": 6.15,
+  "fm": 6.5,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Almqvist",
+  "squadra": "Lecce",
+  "pv": 20,
+  "mv": 6.02,
+  "fm": 6.25,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Isaksen",
+  "squadra": "Lazio",
+  "pv": 17,
+  "mv": 6.09,
+  "fm": 6.44,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Yildiz",
+  "squadra": "Juventus",
+  "pv": 11,
+  "mv": 6.05,
+  "fm": 6.32,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Correa",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Sansone",
+  "squadra": "Lecce",
+  "pv": 14,
+  "mv": 6.04,
+  "fm": 6.32,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Milik",
+  "squadra": "Juventus",
+  "pv": 17,
+  "mv": 5.88,
+  "fm": 6.18,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Caputo",
+  "squadra": "Empoli",
+  "pv": 15,
+  "mv": 5.77,
+  "fm": 6.37,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cambiaghi",
+  "squadra": "Empoli",
+  "pv": 25,
+  "mv": 6.1,
+  "fm": 6.1,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lozano",
+  "squadra": "Napoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ekuban",
+  "squadra": "Genoa",
+  "pv": 16,
+  "mv": 5.97,
+  "fm": 6.41,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Azmoun",
+  "squadra": "Roma",
+  "pv": 10,
+  "mv": 6.2,
+  "fm": 6.7,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cheddira",
+  "squadra": "Frosinone",
+  "pv": 19,
+  "mv": 5.89,
+  "fm": 6.26,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Niang",
+  "squadra": "Empoli",
+  "pv": 3,
+  "mv": 7.17,
+  "fm": 10.5,
+  "gf": 3,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Di Francesco F.",
+  "squadra": "Lecce",
+  "pv": 1,
+  "mv": 7.0,
+  "fm": 10.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Brekalo",
+  "squadra": "Fiorentina",
+  "pv": 11,
+  "mv": 5.91,
+  "fm": 6.18,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Nzola",
+  "squadra": "Fiorentina",
+  "pv": 24,
+  "mv": 5.69,
+  "fm": 5.96,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cancellieri",
+  "squadra": "Empoli",
+  "pv": 24,
+  "mv": 5.94,
+  "fm": 6.1,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Pedro",
+  "squadra": "Lazio",
+  "pv": 20,
+  "mv": 5.9,
+  "fm": 5.98,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kouame'",
+  "squadra": "Fiorentina",
+  "pv": 11,
+  "mv": 6.05,
+  "fm": 6.41,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Swiderski",
+  "squadra": "Verona",
+  "pv": 4,
+  "mv": 5.88,
+  "fm": 5.88,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cerri",
+  "squadra": "Empoli",
+  "pv": 6,
+  "mv": 5.75,
+  "fm": 5.67,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Petagna",
+  "squadra": "Cagliari",
+  "pv": 15,
+  "mv": 5.8,
+  "fm": 6.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lapadula",
+  "squadra": "Cagliari",
+  "pv": 11,
+  "mv": 5.82,
+  "fm": 5.95,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Odgaard",
+  "squadra": "Bologna",
+  "pv": 2,
+  "mv": 6.75,
+  "fm": 9.75,
+  "gf": 2,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Okereke",
+  "squadra": "Torino",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Jovane",
+  "squadra": "Salernitana",
+  "pv": 10,
+  "mv": 5.9,
+  "fm": 6.15,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Solbakken",
+  "squadra": "Roma",
+  "pv": 1,
+  "mv": 5.5,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Maric",
+  "squadra": "Monza",
+  "pv": 7,
+  "mv": 6.07,
+  "fm": 6.5,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Noslin",
+  "squadra": "Verona",
+  "pv": 5,
+  "mv": 6.2,
+  "fm": 6.8,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Sanchez",
+  "squadra": "Inter",
+  "pv": 10,
+  "mv": 6.05,
+  "fm": 6.25,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cuni",
+  "squadra": "Frosinone",
+  "pv": 8,
+  "mv": 5.94,
+  "fm": 6.31,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Weissman",
+  "squadra": "Salernitana",
+  "pv": 3,
+  "mv": 6.17,
+  "fm": 7.17,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Lasagna",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Bonazzoli",
+  "squadra": "Verona",
+  "pv": 15,
+  "mv": 5.8,
+  "fm": 5.93,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Simeone",
+  "squadra": "Napoli",
+  "pv": 13,
+  "mv": 5.73,
+  "fm": 5.85,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Coda M.",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Toure' E.",
+  "squadra": "Atalanta",
+  "pv": 2,
+  "mv": 6.0,
+  "fm": 7.25,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ikwuemesi",
+  "squadra": "Salernitana",
+  "pv": 16,
+  "mv": 5.66,
+  "fm": 5.84,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Simy",
+  "squadra": "Salernitana",
+  "pv": 7,
+  "mv": 5.86,
+  "fm": 6.29,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kean",
+  "squadra": "Juventus",
+  "pv": 8,
+  "mv": 6.12,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Karamoh",
+  "squadra": "Torino",
+  "pv": 5,
+  "mv": 6.1,
+  "fm": 6.1,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Shomurodov",
+  "squadra": "Cagliari",
+  "pv": 10,
+  "mv": 5.8,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Caso",
+  "squadra": "Frosinone",
+  "pv": 11,
+  "mv": 5.95,
+  "fm": 5.95,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Success",
+  "squadra": "Udinese",
+  "pv": 16,
+  "mv": 5.72,
+  "fm": 5.5,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Mulattieri",
+  "squadra": "Sassuolo",
+  "pv": 9,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Defrel",
+  "squadra": "Sassuolo",
+  "pv": 6,
+  "mv": 5.83,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Pellegri",
+  "squadra": "Torino",
+  "pv": 11,
+  "mv": 5.77,
+  "fm": 5.68,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Origi",
+  "squadra": "Milan",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Esposito Se.",
+  "squadra": "Inter",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Van Hooijdonk",
+  "squadra": "Bologna",
+  "pv": 7,
+  "mv": 5.79,
+  "fm": 5.79,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Seck",
+  "squadra": "Frosinone",
+  "pv": 10,
+  "mv": 5.95,
+  "fm": 5.9,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ghedjemis",
+  "squadra": "Frosinone",
+  "pv": 3,
+  "mv": 6.33,
+  "fm": 6.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Tavsan",
+  "squadra": "Verona",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Castro S.",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Destro",
+  "squadra": "Empoli",
+  "pv": 7,
+  "mv": 5.64,
+  "fm": 5.57,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Caprari",
+  "squadra": "Monza",
+  "pv": 4,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Abraham",
+  "squadra": "Roma",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ceide",
+  "squadra": "Sassuolo",
+  "pv": 5,
+  "mv": 5.7,
+  "fm": 5.7,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Botheim",
+  "squadra": "Salernitana",
+  "pv": 5,
+  "mv": 5.3,
+  "fm": 5.2,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Brenner",
+  "squadra": "Udinese",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Borrelli",
+  "squadra": "Frosinone",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Karlsson",
+  "squadra": "Bologna",
+  "pv": 5,
+  "mv": 5.9,
+  "fm": 5.9,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Pierotti",
+  "squadra": "Lecce",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Puscas",
+  "squadra": "Genoa",
+  "pv": 3,
+  "mv": 5.33,
+  "fm": 5.33,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Deulofeu",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Latte Lath",
+  "squadra": "Atalanta",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ake' M.",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kokorin",
+  "squadra": "Fiorentina",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Braaf",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Traore' C.",
+  "squadra": "Milan",
+  "pv": 1,
+  "mv": 7.0,
+  "fm": 10.0,
+  "gf": 1,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Raimondo",
+  "squadra": "Bologna",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kallon",
+  "squadra": "Verona",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Davis K.",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Voelkerling Persson",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Valencia D.",
+  "squadra": "Salernitana",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Alvarez A.",
+  "squadra": "Sassuolo",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Rodriguez P.",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ekong",
+  "squadra": "Empoli",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Vivaldo",
+  "squadra": "Udinese",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kvernadze",
+  "squadra": "Frosinone",
+  "pv": 2,
+  "mv": 5.75,
+  "fm": 5.75,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Bidaoui",
+  "squadra": "Frosinone",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Yalcin",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Diaw",
+  "squadra": "Monza",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Shpendi S.",
+  "squadra": "Empoli",
+  "pv": 8,
+  "mv": 5.69,
+  "fm": 5.69,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Burnete",
+  "squadra": "Lecce",
+  "pv": 1,
+  "mv": 6.0,
+  "fm": 6.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Corfitzen",
+  "squadra": "Lecce",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Stewart",
+  "squadra": "Salernitana",
+  "pv": 3,
+  "mv": 5.83,
+  "fm": 5.83,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Cruz",
+  "squadra": "Verona",
+  "pv": 3,
+  "mv": 5.67,
+  "fm": 5.67,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Camarda",
+  "squadra": "Milan",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Ankeye",
+  "squadra": "Genoa",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ },
+ {
+  "r": "A",
+  "nome": "Kabic",
+  "squadra": "Torino",
+  "pv": 0,
+  "mv": 0.0,
+  "fm": 0.0,
+  "gf": 0,
+  "gs": 0
+ }
+]
